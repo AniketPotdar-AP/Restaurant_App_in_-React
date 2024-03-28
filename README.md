@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+
+# Restaurant Menu App
+
+Welcome to our menu card website, where culinary delights await you! Built with React, our website offers a seamless browsing experience, allowing you to explore our diverse range of delectable dishes with ease. From savory starters to mouthwatering mains and indulgent desserts, our menu caters to every palate.
+
+
+## Demo
+
+https://restaurantpplication.netlify.app/
+
+## Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
